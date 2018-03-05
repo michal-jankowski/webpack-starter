@@ -1,3 +1,3 @@
 function getURLslugs(word) {
-	console.log(word);
+	return word.toUpperCase();
 }
